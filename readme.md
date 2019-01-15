@@ -7,9 +7,9 @@ The goal for this project is to build a model for detecting hate speech in tweet
 - MnB (multinomial bayes).
 
 ## Getting Started
-Notebook 1 (1_preprocessing_bow.ipynb) contains data preprocessing and the BoW model.
+Notebook 1 - (1_preprocessing_bow.ipynb) contains data preprocessing and the BoW model.
 
-Notebook 2 (2_models_and_analysis.ipynb) contains the LSTM, SVM & MnB and analysis/comparison of results.
+Notebook 2 - (2_models_and_analysis.ipynb) contains the LSTM, SVM & MnB and analysis/comparison of results.
 
 ## License
 
